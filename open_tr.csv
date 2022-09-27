@@ -1,0 +1,4 @@
+symbol,cost,profit(%),profit($),duration
+BTC_10,1000,2%,23,3h
+BTC_30,1000,-0.7%,-7,7h
+BTC_90,-1000,5.8%,58,29h
